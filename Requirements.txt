@@ -1,0 +1,3 @@
+requirements
+ use JWT
+ user's schema:- user name, email ,password ,image, chats 
